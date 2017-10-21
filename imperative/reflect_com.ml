@@ -1,3 +1,20 @@
+(*
+##################################################
+##################################################
+################ reflect_com.ml ##################
+##################################################
+##################################################
+#
+# ------------------------------------------------
+# Nome Studente : Bellorio
+# Anno          : 2016-17
+# Corso         : Informatica
+# Descrizione   : esempio reflect su comando while
+# Nome File     : reflect_com.ml
+# ------------------------------------------------ 
+#
+*)
+
 Printf.printf("Reflect\n");;
 
 let s = "While(Not(Eq(Val(Den z),Eint 0)),[Assign(Den w,Prod(Val(Den w),Val(Den z)));Assign(Den z,Diff(Val(Den z),Eint 1))])";;
