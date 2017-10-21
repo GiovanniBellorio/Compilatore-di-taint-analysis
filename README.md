@@ -1,4 +1,4 @@
-# Compilatore-di-taint-analysis
+# Compiler-of-taint-analysis
 
 The aim of this project was to build an Interpreter.
 
